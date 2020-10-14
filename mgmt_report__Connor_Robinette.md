@@ -1,4 +1,4 @@
-# Magagment week end progress report template
+# Management week end progress report template
 
 Manager Name: Connor Robinette
 
